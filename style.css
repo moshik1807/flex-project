@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(80, 80, 155);
+
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+}
+.intro{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+
+}
+.intro #a a {
+    color: black;
+    background-color: blueviolet;
+    padding: 5px;
+    border-radius: 15px;
+}
